@@ -20,8 +20,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by: Shrikrishna V
+RegisterNumber:  212223040198
 */
 ```
 ```import pandas as pd
@@ -88,21 +88,21 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
-## Profit prediction:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/8bd3bbe5-0566-426b-8c6e-ac285dcaef4c)
 
-## Function
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/4e72d7ef-f737-49ba-8daa-7682ed09d655)
-## GRADIENT DESCENT:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/a91264f7-41f7-4c40-9a2a-40472920d328)
-## COST FUNCTION USING GRADIENT DESCENT:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/5076fa2e-0a69-43f3-bf08-49f168189437)
-## LINEAR REGRESSION USING PROFIT PREDICTION:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/3707211a-86ca-4813-b6f0-8a02c8dee3af)
-## PROFIT PREDICTION FOR A POPULATION OF 35000:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/d9b49fd2-4ca3-4974-92b9-a0f1a9df34a8)
-## PROFIT PREDICTION FOR A POPULATION OF 70000:
-![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/2aba946e-2e7e-4516-a3a7-c4da60b2e2c9)
+### X values
+![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/10d0ca73-cc69-40ae-b903-e414dbe0626f)
+
+### y values
+![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/1222e38a-3364-4ef0-81a8-f4d3d78607d8)
+
+### X Scaled values
+![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/1d81226c-2b5b-4af7-b0c6-9ffe8b7c4dfd)
+
+### y Scaled values
+![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/c3086ee3-3461-47ef-9389-d998203983c0)
+
+### Predicted value
+![image](https://github.com/Wkrish28/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144295230/627c5d14-ff96-4de9-ba02-8b494fd7f296)
 
 
 
